@@ -40,7 +40,8 @@ const config = {
   plugins: [
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({
-      title: 'Star Rating'
+      title: 'Star Rating',
+      template: './src/index.html'
     })
   ]
 };
