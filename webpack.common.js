@@ -4,7 +4,7 @@ const CleanWebpackPlugin = require('clean-webpack-plugin');
 
 const config = {
   entry: {
-    app: './src/app.js'
+    app: './src/index.js'
   },
   output: {
     filename: '[name].bundle.js',

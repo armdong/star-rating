@@ -2,7 +2,7 @@
   "name": "star-rating",
   "version": "0.0.1",
   "description": "A simple star rating app",
-  "main": "app.js",
+  "main": "index.js",
   "author": "Wang Maodong",
   "license": "MIT",
   "scripts": {
